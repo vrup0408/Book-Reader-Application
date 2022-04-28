@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369104143287",
+    "project_id": "book-reader-app-efbdf",
+    "storage_bucket": "book-reader-app-efbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369104143287:android:71387cbc18b03cf740de32",
+        "android_client_info": {
+          "package_name": "com.example.bookreaderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369104143287-5mumahp7schrthld4vbkba53bckqvhmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod9sfm3ItM2MDP52lke-iSq0yKZ9pTek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369104143287-5mumahp7schrthld4vbkba53bckqvhmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
